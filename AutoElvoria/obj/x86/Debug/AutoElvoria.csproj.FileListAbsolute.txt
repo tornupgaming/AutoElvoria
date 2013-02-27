@@ -1,0 +1,11 @@
+c:\users\phil\documents\visual studio 2010\Projects\AutoElvoria\AutoElvoria\bin\Debug\AutoElvoria.exe
+c:\users\phil\documents\visual studio 2010\Projects\AutoElvoria\AutoElvoria\bin\Debug\AutoElvoria.pdb
+c:\users\phil\documents\visual studio 2010\Projects\AutoElvoria\AutoElvoria\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\phil\documents\visual studio 2010\Projects\AutoElvoria\AutoElvoria\obj\x86\Debug\AutoElvoria.Properties.Resources.resources
+c:\users\phil\documents\visual studio 2010\Projects\AutoElvoria\AutoElvoria\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\phil\documents\visual studio 2010\Projects\AutoElvoria\AutoElvoria\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\phil\documents\visual studio 2010\Projects\AutoElvoria\AutoElvoria\obj\x86\Debug\AutoElvoria.exe
+c:\users\phil\documents\visual studio 2010\Projects\AutoElvoria\AutoElvoria\obj\x86\Debug\AutoElvoria.pdb
+c:\users\phil\documents\visual studio 2010\Projects\AutoElvoria\AutoElvoria\obj\x86\Debug\AutoElvoria.MainForm.resources
+C:\Users\Phil\documents\visual studio 2010\Projects\AutoElvoria\AutoElvoria\obj\x86\Debug\AutoElvoria.LogWindow.resources
+C:\Users\Phil\documents\visual studio 2010\Projects\AutoElvoria\AutoElvoria\obj\x86\Debug\AutoElvoria.ElvMain.resources
